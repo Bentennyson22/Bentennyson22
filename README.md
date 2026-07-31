@@ -1,4 +1,4 @@
-# Benjamin Chukwurah
+# Benjamin C. Chukwurah
 
 Full-Stack Software Engineer | Backend Engineer @ CAS Technology
 
