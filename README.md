@@ -1,16 +1,19 @@
-## Hi there 👋
+# Benjamin Chukwurah
 
-<!--
-**Bentennyson22/Bentennyson22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Software Engineer | Backend Engineer @ CAS Technology
 
-Here are some ideas to get you started:
+Building backend systems, full-stack web applications, and AI-powered software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies
+
+PHP • Python • JavaScript • React Native • MySQL • Git • GitHub
+
+### Current Work
+
+- Backend Engineering at CAS Technology
+- Disease Surveillance System
+- Student Result Management System
+
+### Contact
+
+LinkedIn • Email
