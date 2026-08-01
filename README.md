@@ -17,6 +17,6 @@ PHP • Python • JavaScript • React Native • HTML • CSS • MySQL • SQ
 
 ### Contact
 
-LinkedIn: https://www.linkedin.com/in/benjamin-chukwurah-756540311/
+LinkedIn: https://www.linkedin.com/in/benjaminchukwurah/
 
 Email: benjaminchukwurah6@gmail.com
